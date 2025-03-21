@@ -1,4 +1,4 @@
-# ECES University Website
+# eces-ecole Website
 
 ## 📚 À propos
 rojet de démonstration technique développé avec React et Vite. Ce site vitrine met en avant mes compétences en développement front-end à travers la création d'une interface moderne pour une université fictive. Il présente différentes fonctionnalités avancées comme les animations GSAP, l'utilisation de Tailwind CSS et la gestion des routes avec React Router.
