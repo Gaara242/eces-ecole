@@ -24,7 +24,7 @@ rojet de démonstration technique développé avec React et Vite. Ce site vitrin
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/Gaara242/eces-university.git
+git clone https://github.com/Gaara242/eces-ecole.git
 ```
 
 2. Installez les dépendances :
@@ -46,7 +46,7 @@ npm run dev
 
 ## 🌐 Déploiement
 Le site est déployé sur GitHub Pages et accessible à :
-[https://gaara242.github.io/eces-university](https://gaara242.github.io/eces-university)
+[https://gaara242.github.io/eces-university](https://gaara242.github.io/eces-ecole)
 
 ## 👥 Contribution
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou proposer une pull request.
